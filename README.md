@@ -4,6 +4,8 @@ https://movierecommendatiosystem-9pxzrl4d29l5getxtguwey.streamlit.app/
 This repository contains two Jupyter Notebooks focused on movie review analysis and recommendation system development using machine learning and natural language processing techniques.
 
 ---
+### 🗃️ Movies Data Source : TMDB movies dataset from kaggle
+### 🗃️ Reviews Data Source : Webscrapping from TMDB movie review data.
 
 ## 📁 Contents
 
