@@ -55,3 +55,9 @@ Given a sample review like _"The movie was excellent!"_, the model predicts it a
    ```bash
    git clone https://github.com/your-username/movie-recommendation-and-review-analysis.git
    cd movie-recommendation-and-review-analysis
+2. Install dependencies:
+   pip install -r requirements.txt
+
+3. Open Jupyter Notebook
+   jupyter notebook
+   
